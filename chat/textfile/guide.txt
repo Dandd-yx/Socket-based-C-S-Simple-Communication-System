@@ -1,0 +1,13 @@
+1. 注册与注销：注册新用户时需要输入用户名与对应密码，注册用户时需要保持这个用户的登录状态。
+2. 登录：登录时，“用户名”“密码”“服务器ip”是必填项，“端口”默认为88
+3. 显示消息：来自服务器的消息和系统会显示在这里
+4. 发送消息：发送消息时需要指定目标用户，不指定用户时为群发消息
+5. 禁言：注意您的言论！服务器能够随时对您进行禁言！
+
+1. Registration and cancellation: When registering a new user, you need to enter the user name and corresponding password, and when registering a user, you need to keep the user logged in.
+2. Login: When logging in, ‘user name’, ‘password’, ‘server ip’ are required fields, and ‘port’ is defaulted to 88. Port’ is 88 by default.
+3. show messages: messages from the server and the system will be shown here.
+4. send message: you need to specify the target user when sending message, if you don't specify the user, it will be a group message.
+5. Ban: Be careful what you say! The server can ban you at any time!
+
+6、666666666666666666666
